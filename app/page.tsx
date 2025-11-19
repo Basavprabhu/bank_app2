@@ -19,7 +19,7 @@ export default function EnhancedLogin() {
     setError('');
 
     setTimeout(() => {
-      if (customerId === 'Pavanbank' && password === '123456') {
+      if (customerId === 'Vinay@2268' && password === '22061968') {
         localStorage.setItem('isAuthenticated', 'true');
         router.push('/dashboard');
 
