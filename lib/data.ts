@@ -19,7 +19,7 @@ export interface Account {
 }
 
 export const mockAccount: Account = {
-  customerName: "Sri Raghavendra",
+  customerName: "Sri Raghavendra Electrical and Civil Contractor",
   accountType: "Priority Account",
   accountNumber: "017005500160",
   balance: 427102000.00,
