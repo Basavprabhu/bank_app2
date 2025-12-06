@@ -19,7 +19,7 @@ export default function EnhancedLogin() {
     setError('');
 
     setTimeout(() => {
-      if (customerId === 'Vinay@2268' && password === '22061968') {
+      if (customerId === 'Praveen B' && password === '6360555651') {
         localStorage.setItem('isAuthenticated', 'true');
         router.push('/dashboard');
 
@@ -220,7 +220,7 @@ export default function EnhancedLogin() {
                   
                   <div className="border-t pt-6">
                     <button className="w-full text-gray-600 hover:text-gray-800 text-sm mb-3 transition-colors">
-                      Not OLA ELECTRIC TECHNOLOGIES PVT LTD?
+                      Not Praveen Basalingol?
                     </button>
                     <button className="w-full bg-gray-100 hover:bg-gray-200 text-gray-800 py-3 px-4 rounded-xl font-medium transition-colors">
                       Switch Account
