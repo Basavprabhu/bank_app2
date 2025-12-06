@@ -94,7 +94,7 @@ export default function EnhancedLogin() {
                   Welcome Back
                 </h2>
                 <p className="text-blue-100 text-sm">
-                  OLA ELECTRIC TECHNOLOGIES PVT LTD
+                  Praveen Basalingol
                 </p>
               </div>
 
