@@ -227,7 +227,7 @@ export default function Dashboard() {
             <h4 className="text-md font-semibold text-[#004080] mb-2">Account Info</h4>
             <p className="text-sm text-gray-600">IFSC Code: HDFC0005162</p>
             <p className="text-sm text-gray-600">Branch: Dharwad NTTF </p>
-            <p className="text-sm text-gray-600">Email: sudhirvinay68@gmail.com</p>
+            <p className="text-sm text-gray-600">Email: basalingolp@gmail.com</p>
           </div>
 
           <div className="bg-white shadow-md rounded-xl p-6">
